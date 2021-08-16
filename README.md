@@ -24,5 +24,3 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 </div>
-  
-  #### Atualmente estou procurando uma oportunidade para evoluir meus conhecimentos em arquitetura de microsservices, de preferência utilizando Spring Boot.
