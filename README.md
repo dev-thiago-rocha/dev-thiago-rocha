@@ -1,7 +1,3 @@
- ## Olá, tudo certo ?
- 
- #### Em meados de 2019 atuava como desenvolvedor de software embarcado utilizando tecnologias como Python e C, mas por uma necessidade decidi me aventurar no mundo do desenvolvimento WEB.
- 
  <div>
   <a href="https://github.com/dev-thiago-rocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-thiago-rocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
